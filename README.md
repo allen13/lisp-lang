@@ -1,4 +1,4 @@
-list-lang
+lisp-lang
 ---------
 
 This project is a simple Lisp interpreter written in Go. It supports basic Lisp features such as defining and calling functions, and arithmetic operations.
